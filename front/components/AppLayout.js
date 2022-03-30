@@ -28,7 +28,7 @@ const AppLayout = ({children}) => {
                 <Col xs={24} md={12} >
                 {children}
                 </Col>``
-                <Col xs={24} md={6} >dddd
+                <Col xs={24} md={6} >
                 오른쪽 메뉴
                 </Col>
             </Row>
