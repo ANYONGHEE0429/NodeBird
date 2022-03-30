@@ -20,14 +20,14 @@ const AppLayout = ({children}) => {
                 <Menu.Item>
                 <Link href="/signUp"><a>Sign Up</a></Link>
                 </Menu.Item>
-            </Menu>
+            </Menu>11
             <Row gutter={8}>
                 <Col xs={24} md={6} >
                 왼쪽 메뉴
                 </Col>
                 <Col xs={24} md={12} >
                 {children}
-                </Col>
+                </Col>``
                 <Col xs={24} md={6} >dddd
                 오른쪽 메뉴
                 </Col>
